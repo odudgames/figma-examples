@@ -1,0 +1,5 @@
+[
+  { "cardId": "1", "name": "Knight", "cost": 3, "image": "https://raw.githubusercontent.com/odudgames/figma-examples/main/board-game-maker/images/knight.png" },
+  { "cardId": "2", "name": "Mage", "cost": 2, "image": "https://raw.githubusercontent.com/odudgames/figma-examples/main/board-game-maker/images/mage.png" },
+  { "cardId": "3", "name": "Archer", "cost": 2, "image": "https://raw.githubusercontent.com/odudgames/figma-examples/main/board-game-maker/images/archer.png" }
+]

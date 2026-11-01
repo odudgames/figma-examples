@@ -1,0 +1,14 @@
+[
+  {
+    "cardId": "1",
+    "name": "Knight",
+    "cost": 3,
+    "flavorText": "Loyal to the crown, feared by dragons."
+  },
+  {
+    "cardId": "2",
+    "name": "Mage",
+    "cost": 2,
+    "flavorText": "Magic is just math with better special effects."
+  }
+]

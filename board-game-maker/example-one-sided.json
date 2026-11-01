@@ -1,0 +1,5 @@
+[
+  { "cardId": "1", "name": "Knight", "cost": 3 },
+  { "cardId": "2", "name": "Mage", "cost": 2 },
+  { "cardId": "3", "name": "Archer", "cost": 2 }
+]
